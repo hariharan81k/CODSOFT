@@ -1,1 +1,53 @@
+<html>
+<head>
+    <title>Hariharan K Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <img src="logo.png" alt="Logo">
+        </div>
+        <h1>Hariharan K</h1>
+        <p></p>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <img src="my-photo.jpg" alt="Your Photo">
+        <p>Hello! I am Hariharan K, a passionate Full Stack Web Developer with expertise in Python. I enjoy creating efficient and innovative web applications.</p>
+    </section>
+
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>Full Stack Web Development</li>
+            <li>Python</li>
+        </ul>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <div class="project">
+            <h3>Project Title</h3>
+            <p>Description of project .</p>
+            <img src="project.jpg" alt="Project 1">
+    </section>
+
+    <section id="resume">
+        <h2>Resume</h2>
+        <a href="resume.pdf" download>Download My Resume (PDF)</a>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: <a href="mailto:hariharankannan36@gmail.com">hariharankannan36@gmail.com</a></p>
+        <p>Phone: +91 6369690106</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Hariharan K. All rights reserved.</p>
+    </footer>
+</body>
+</html>
 
